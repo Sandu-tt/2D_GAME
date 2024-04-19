@@ -43,5 +43,5 @@ function boxAnimation() {
 }
 
 $("#btnNext").click(function (e) {
-    window.location.href = "index2.html";
+    window.location.href = "indexTwo.html";
 });
